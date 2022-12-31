@@ -1,4 +1,4 @@
-This <a href="https://github.com/NancyGirdhar/Fun_Projects_Python/tree/main/7Mini_2Liners_Projects_Python.ipynb">notebook</a> provides a demo of some useful python packages and their usage as 7 python mini projects.
+This <a href="https://github.com/NancyGirdhar/Fun_Projects_Python/blob/main/7Mini_2Liners_Projects_Python/7Mini_2Liners_Projects_Python.ipynb">notebook</a> provides a demo of some useful python packages and their usage as 7 python mini projects.
 
 **1.	**Auto Corrector:**** This will autocorrect the spelling mistake in a sentence.
 
